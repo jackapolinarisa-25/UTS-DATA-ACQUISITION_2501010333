@@ -1,7 +1,7 @@
 # UTS Data Acquisition & Management — Kelas F
 
 ## 1. Data Diri
-* **Nama:** [Apolinarisa Jack Herment]
+* **Nama:** Apolinarisa Jack Herment
 * **NIM:** 2501010333
 * **Kelas:** F
 * **Program Studi:** Informatika — INSTIKI
