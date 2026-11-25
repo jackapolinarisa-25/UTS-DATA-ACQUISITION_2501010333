@@ -12,7 +12,7 @@
 
 | No | Metode Akuisisi | Nama Dataset / Sumber | URL Sumber | Format Mentah (`data/raw`) | Format Hasil (`Proses`) |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1 | **Download** | Dataset Destinasi Wisata Bali (Kaggle) | https://kaggle.com | `bali_tourist_destination.csv` | `wisata_bali_bersih.csv` |
+| 1 | **Download** | Dataset Destinasi Wisata Bali (Kaggle) | https://www.kaggle.com/datasets/dakbsabsa/bali-destination-tour-datasets-2026 | `bali_tourist_destination.csv` | `wisata_bali_bersih.csv` |
 | 2 | **API** | Open-Meteo Historical Weather API (Bali) | https://open-meteo.com | `cuaca_bali_raw.json` | `cuaca_bali_bersih.json` |
 | 3 | **Scraping** | Daftar Kabupaten dan Kota di Bali (Wikipedia) | https://wikipedia.org | `wilayah_bali_raw.html` | `wilayah_bali_bersih.html` |
 
