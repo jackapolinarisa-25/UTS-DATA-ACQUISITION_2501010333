@@ -2,231 +2,277 @@
   {
     "tanggal":"2025-01-01",
     "suhu_rata_rata_c":25.7,
-    "curah_hujan_mm":10.6
+    "curah_hujan_mm":10.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-02",
     "suhu_rata_rata_c":24.8,
-    "curah_hujan_mm":29.4
+    "curah_hujan_mm":29.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-03",
     "suhu_rata_rata_c":24.9,
-    "curah_hujan_mm":15.8
+    "curah_hujan_mm":15.8,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-04",
     "suhu_rata_rata_c":24.4,
-    "curah_hujan_mm":15.9
+    "curah_hujan_mm":15.9,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-05",
     "suhu_rata_rata_c":25.0,
-    "curah_hujan_mm":13.4
+    "curah_hujan_mm":13.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-06",
     "suhu_rata_rata_c":25.5,
-    "curah_hujan_mm":26.9
+    "curah_hujan_mm":26.9,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-07",
     "suhu_rata_rata_c":26.2,
-    "curah_hujan_mm":18.6
+    "curah_hujan_mm":18.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-08",
     "suhu_rata_rata_c":26.5,
-    "curah_hujan_mm":10.0
+    "curah_hujan_mm":10.0,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-09",
     "suhu_rata_rata_c":25.9,
-    "curah_hujan_mm":17.9
+    "curah_hujan_mm":17.9,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-10",
     "suhu_rata_rata_c":25.3,
-    "curah_hujan_mm":8.8
+    "curah_hujan_mm":8.8,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-11",
     "suhu_rata_rata_c":25.4,
-    "curah_hujan_mm":14.2
+    "curah_hujan_mm":14.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-12",
     "suhu_rata_rata_c":25.2,
-    "curah_hujan_mm":15.6
+    "curah_hujan_mm":15.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-13",
     "suhu_rata_rata_c":26.1,
-    "curah_hujan_mm":17.4
+    "curah_hujan_mm":17.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-14",
     "suhu_rata_rata_c":26.5,
-    "curah_hujan_mm":18.9
+    "curah_hujan_mm":18.9,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-15",
     "suhu_rata_rata_c":26.9,
-    "curah_hujan_mm":9.4
+    "curah_hujan_mm":9.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-16",
     "suhu_rata_rata_c":26.5,
-    "curah_hujan_mm":16.2
+    "curah_hujan_mm":16.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-17",
     "suhu_rata_rata_c":27.3,
-    "curah_hujan_mm":2.7
+    "curah_hujan_mm":2.7,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-18",
     "suhu_rata_rata_c":27.3,
-    "curah_hujan_mm":8.1
+    "curah_hujan_mm":8.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-19",
     "suhu_rata_rata_c":26.8,
-    "curah_hujan_mm":17.6
+    "curah_hujan_mm":17.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-20",
     "suhu_rata_rata_c":25.4,
-    "curah_hujan_mm":23.6
+    "curah_hujan_mm":23.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-21",
     "suhu_rata_rata_c":25.9,
-    "curah_hujan_mm":17.1
+    "curah_hujan_mm":17.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-22",
     "suhu_rata_rata_c":26.0,
-    "curah_hujan_mm":12.6
+    "curah_hujan_mm":12.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-23",
     "suhu_rata_rata_c":25.6,
-    "curah_hujan_mm":11.1
+    "curah_hujan_mm":11.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-24",
     "suhu_rata_rata_c":26.4,
-    "curah_hujan_mm":2.5
+    "curah_hujan_mm":2.5,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-25",
     "suhu_rata_rata_c":26.9,
-    "curah_hujan_mm":1.2
+    "curah_hujan_mm":1.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-26",
     "suhu_rata_rata_c":26.5,
-    "curah_hujan_mm":5.0
+    "curah_hujan_mm":5.0,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-27",
     "suhu_rata_rata_c":25.9,
-    "curah_hujan_mm":13.7
+    "curah_hujan_mm":13.7,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-28",
     "suhu_rata_rata_c":26.3,
-    "curah_hujan_mm":8.1
+    "curah_hujan_mm":8.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-29",
     "suhu_rata_rata_c":26.7,
-    "curah_hujan_mm":1.2
+    "curah_hujan_mm":1.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-30",
     "suhu_rata_rata_c":26.6,
-    "curah_hujan_mm":5.2
+    "curah_hujan_mm":5.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-01-31",
     "suhu_rata_rata_c":27.0,
-    "curah_hujan_mm":1.1
+    "curah_hujan_mm":1.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-01",
     "suhu_rata_rata_c":26.8,
-    "curah_hujan_mm":1.2
+    "curah_hujan_mm":1.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-02",
     "suhu_rata_rata_c":28.3,
-    "curah_hujan_mm":0.0
+    "curah_hujan_mm":0.0,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-03",
     "suhu_rata_rata_c":28.9,
-    "curah_hujan_mm":0.2
+    "curah_hujan_mm":0.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-04",
     "suhu_rata_rata_c":29.4,
-    "curah_hujan_mm":0.4
+    "curah_hujan_mm":0.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-05",
     "suhu_rata_rata_c":29.1,
-    "curah_hujan_mm":0.7
+    "curah_hujan_mm":0.7,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-06",
     "suhu_rata_rata_c":28.2,
-    "curah_hujan_mm":1.5
+    "curah_hujan_mm":1.5,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-07",
     "suhu_rata_rata_c":28.5,
-    "curah_hujan_mm":0.6
+    "curah_hujan_mm":0.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-08",
     "suhu_rata_rata_c":25.3,
-    "curah_hujan_mm":20.9
+    "curah_hujan_mm":20.9,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-09",
     "suhu_rata_rata_c":25.3,
-    "curah_hujan_mm":20.4
+    "curah_hujan_mm":20.4,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-10",
     "suhu_rata_rata_c":25.1,
-    "curah_hujan_mm":26.8
+    "curah_hujan_mm":26.8,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-11",
     "suhu_rata_rata_c":25.7,
-    "curah_hujan_mm":20.6
+    "curah_hujan_mm":20.6,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-12",
     "suhu_rata_rata_c":25.0,
-    "curah_hujan_mm":23.1
+    "curah_hujan_mm":23.1,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-13",
     "suhu_rata_rata_c":26.3,
-    "curah_hujan_mm":7.2
+    "curah_hujan_mm":7.2,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-14",
     "suhu_rata_rata_c":26.6,
-    "curah_hujan_mm":1.3
+    "curah_hujan_mm":1.3,
+    "provinsi":"Bali"
   },
   {
     "tanggal":"2025-02-15",
     "suhu_rata_rata_c":26.6,
-    "curah_hujan_mm":3.2
+    "curah_hujan_mm":3.2,
+    "provinsi":"Bali"
   }
 ]
